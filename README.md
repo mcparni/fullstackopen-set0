@@ -1,4 +1,4 @@
-# Osa0 - fullstackopen-set0  
+# Osa0
 
 ## 0.1 HTML ja CSS  
 done  
