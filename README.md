@@ -7,14 +7,14 @@ done
 done  
 
 ## 0.3 muistiinpanojen sivu  
-t_0-3.png  
+<a href="/t_0-3.png">t_0-3.png</a>    
 
 ## 0.4 Uusi muistiinpano  
-t_0-4.png  
+<a href="/t_0-4.png">t_0-4.png</a>    
 
 ## 0.5 Single page app  
-t_0-5.png  
+<a href="/t_0-5.png">t_0-5.png</a>    
 
 ## 0.6 Uusi muistiinpano SPA:ssa
-t_0-6.png  
+<a href="/t_0-6.png">t_0-6.png</a>    
 
