@@ -1,4 +1,4 @@
-# Osa0
+# Fullstack Open 2018 - Osa0
 
 ## 0.1 HTML ja CSS  
 done  
